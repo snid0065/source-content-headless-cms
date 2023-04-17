@@ -1,6 +1,7 @@
  <template>
  <div>
-
+    <h2> home </h2>
+    <p> lorem </p>
 
  </div>
  </template>
@@ -9,6 +10,6 @@
 
  </script>
 
- <style lang=scss scoped>
- 
+ <style  scoped>
+
  </style>
